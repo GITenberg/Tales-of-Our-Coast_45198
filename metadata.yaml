@@ -54,6 +54,8 @@ covers:
 - cover_type: archival
   image_path: 45198-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45198#Tales-of-Our-Coast
 gutenberg_issued: '2014-03-24'
 gutenberg_type: Text
 identifiers:
