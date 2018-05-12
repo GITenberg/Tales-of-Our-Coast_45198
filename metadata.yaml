@@ -1,0 +1,74 @@
+_repo: Tales-of-Our-Coast_45198
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Russell, William Clark
+    alias: Russell, W. Clark (William Clark)
+    birthdate: 1844
+    deathdate: 1911
+    gutenberg_agent_id: '8948'
+    url: http://www.gutenberg.org/2009/agents/8948
+    wikipedia: http://en.wikipedia.org/wiki/William_Clark_Russell
+  - agent_name: Crockett, S. R. (Samuel Rutherford)
+    alias: Crockett, Samuel Rutherford
+    birthdate: 1860
+    deathdate: 1914
+    gutenberg_agent_id: '1590'
+    url: http://www.gutenberg.org/2009/agents/1590
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Rutherford_Crockett
+  - agent_name: Quiller-Couch, Arthur
+    aliases:
+    - Quiller-Couch, Sir Arthur Thomas
+    - Quiller-Couch, A. T. (Arthur Thomas)
+    - Quiller-Couch, Arthur Thomas
+    - Q
+    birthdate: 1863
+    deathdate: 1944
+    gutenberg_agent_id: '3579'
+    url: http://www.gutenberg.org/2009/agents/3579
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Quiller-Couch
+  - agent_name: Frederic, Harold
+    birthdate: 1856
+    deathdate: 1898
+    gutenberg_agent_id: '83'
+    url: http://www.gutenberg.org/2009/agents/83
+    wikipedia: http://en.wikipedia.org/wiki/Harold_Frederic
+  - agent_name: Parker, Gilbert
+    aliases:
+    - Parker, Horatio Gilbert
+    - Parker, Gilbert, Sir, bart.
+    birthdate: 1862
+    deathdate: 1932
+    gutenberg_agent_id: '1285'
+    url: http://www.gutenberg.org/2009/agents/1285
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Parker
+  illustrator:
+    agent_name: Brangwyn, Frank
+    alias: Brangwyn, F. (Frank)
+    birthdate: 1867
+    deathdate: 1956
+    gutenberg_agent_id: '43146'
+    url: http://www.gutenberg.org/2009/agents/43146
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Brangwyn
+covers:
+- cover_type: archival
+  image_path: 45198-h/images/cover.jpg
+description: ''
+gutenberg_issued: '2014-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45198'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Short stories'
+- !lcsh 'Sea stories'
+- !lcsh 'Great Britain -- Social life and customs -- Fiction'
+tableOfContents: The smugglers of the Clone, by S. R. Crockett -- 'There is sorrow
+  on the sea,' by G. Parker -- The path of Murtogh, by H. Frederic -- The roll-call
+  of the reef, by A. T. Quiller-Couch -- 'That there Mason,' by W. C. Russell.
+title: Tales of Our Coast
+url: http://www.gutenberg.org/ebooks/45198
